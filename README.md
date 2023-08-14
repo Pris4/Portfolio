@@ -1,4 +1,5 @@
-# Portfólio Olá, Bem-vindo(a) ao meu projeto de portfólio.
+# Portfólio 
+## Olá, Bem-vindo(a) ao meu projeto de portfólio.
 Desenvolvido com os cursos de HTML e CSS da Alura.
 
 ![image](https://github.com/Pris4/Portf-lio/blob/master/imagens/foto_site.png)
